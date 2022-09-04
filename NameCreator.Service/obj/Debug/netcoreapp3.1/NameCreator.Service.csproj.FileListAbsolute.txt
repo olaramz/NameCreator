@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\bin\Debug\netcoreapp3.1\NameCreator.Service.deps.json
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\bin\Debug\netcoreapp3.1\NameCreator.Service.dll
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\bin\Debug\netcoreapp3.1\NameCreator.Service.pdb
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\bin\Debug\netcoreapp3.1\NameCreator.Model.dll
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\bin\Debug\netcoreapp3.1\NameCreator.Model.pdb
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\obj\Debug\netcoreapp3.1\NameCreator.Service.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\obj\Debug\netcoreapp3.1\NameCreator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\obj\Debug\netcoreapp3.1\NameCreator.Service.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\obj\Debug\netcoreapp3.1\NameCreator.Service.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\obj\Debug\netcoreapp3.1\NameCreator.Service.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\obj\Debug\netcoreapp3.1\NameCreator.Service.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\obj\Debug\netcoreapp3.1\NameCreator.Service.dll
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Service\obj\Debug\netcoreapp3.1\NameCreator.Service.pdb

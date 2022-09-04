@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NameCreator.Service/1.0.0": {
+        "dependencies": {
+          "NameCreator.Model": "1.0.0"
+        },
+        "runtime": {
+          "NameCreator.Service.dll": {}
+        }
+      },
+      "NameCreator.Model/1.0.0": {
+        "runtime": {
+          "NameCreator.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NameCreator.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NameCreator.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

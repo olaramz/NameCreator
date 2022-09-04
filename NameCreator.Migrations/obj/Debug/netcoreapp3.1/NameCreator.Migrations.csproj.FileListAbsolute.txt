@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\bin\Debug\netcoreapp3.1\NameCreator.Migrations.deps.json
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\bin\Debug\netcoreapp3.1\NameCreator.Migrations.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\bin\Debug\netcoreapp3.1\NameCreator.Migrations.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\bin\Debug\netcoreapp3.1\NameCreator.Migrations.dll
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\bin\Debug\netcoreapp3.1\NameCreator.Migrations.pdb
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\bin\Debug\netcoreapp3.1\NameCreator.Model.dll
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\bin\Debug\netcoreapp3.1\NameCreator.Model.pdb
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.dll
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.pdb
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Migrations\obj\Debug\netcoreapp3.1\NameCreator.Migrations.genruntimeconfig.cache

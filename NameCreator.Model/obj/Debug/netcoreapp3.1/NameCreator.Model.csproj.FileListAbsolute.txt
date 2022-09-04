@@ -1,0 +1,10 @@
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\bin\Debug\netcoreapp3.1\NameCreator.Model.deps.json
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\bin\Debug\netcoreapp3.1\NameCreator.Model.dll
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\bin\Debug\netcoreapp3.1\NameCreator.Model.pdb
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\obj\Debug\netcoreapp3.1\NameCreator.Model.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\obj\Debug\netcoreapp3.1\NameCreator.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\obj\Debug\netcoreapp3.1\NameCreator.Model.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\obj\Debug\netcoreapp3.1\NameCreator.Model.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\obj\Debug\netcoreapp3.1\NameCreator.Model.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\obj\Debug\netcoreapp3.1\NameCreator.Model.dll
+C:\Users\TOSHIBA\source\repos\NameCreator\NameCreator.Model\obj\Debug\netcoreapp3.1\NameCreator.Model.pdb
